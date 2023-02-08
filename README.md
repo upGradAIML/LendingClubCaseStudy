@@ -18,12 +18,24 @@
 - Numpy
 - Pandas
 - MatPlotLib
+- NBFormat
+- Seaborn
+- Plotly Express
 
 
 ## Conclusions
-```bash
-to be updated once the analysis is completed
-```
+
+Major Driving factor which can be used to predict the chance of defaulting and avoiding Credit Loss:
+- Low Interest Rates
+- Poeple with annual income between 31k-50k
+- Poeple taking loans for debt consolidation
+
+Other considerations for 'defaults' :
+- People having annual income in the range 50000-100000.
+- Poeple having Public Recorded Bankruptcy.
+- People with least grades like E,F,G which indicates high risk.
+- People with very high Debt to Income value.
+- Poeple with working experience 10+ years.
 
 ## Contact
 Created by [@zingrx]!
